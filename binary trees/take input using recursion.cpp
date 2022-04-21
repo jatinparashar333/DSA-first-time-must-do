@@ -42,17 +42,6 @@ BinaryNode* takeinput()
 	root->right=rightchild;
 	return root;
 }
-void display(BinaryNode* root)
-{
-	if(root==NULL)
-	{
-		return;
-	}
-	cout<<root->data;
-	display(root->left);
-	cout<<" ";
-	display(root->right);
-}
 int main()
 {
 	BinaryNode* root = takeinput();
