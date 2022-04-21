@@ -45,5 +45,4 @@ BinaryNode* takeinput()
 int main()
 {
 	BinaryNode* root = takeinput();
-	display(root);
 }
