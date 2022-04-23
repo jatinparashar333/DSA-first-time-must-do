@@ -93,6 +93,6 @@ int main()
         for (int j = 0; j < res[i].size(); j++)
         {
         	cout << res[i][j] << " ";	
-		}
+	}
     }
 }
