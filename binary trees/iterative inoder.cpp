@@ -29,6 +29,7 @@ class Binarytree{
 			right=NULL;
 		}
 };
+
 Binarytree* takeinput()
 {
 	int data;cin>>data;
