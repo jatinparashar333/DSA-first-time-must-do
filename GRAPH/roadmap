@@ -1,1 +1,29 @@
 Representation of graph
+Basics of BFS/DFS questions
+  DFS print
+  BFS print
+  is Graph connected?
+  print all components of Graph
+Applications of BFS/DFS
+  is Graph tree or not?
+  colour the Graph
+  largest Island
+  count Nodes with K distance
+Minimum spanning tree (MST)
+  DSU(disjoint set union)
+  Kruskal's Algorithm
+  Detect cycle in graph
+  union find algorithm in graph
+  prim's algorithm
+Shortest path in Directed Graph
+  Dijkstra's Algorithm
+Topological sort
+  Kahn's Algorithm
+Graphs in matrix
+  snake and ladder
+  Rotting oranges
+  shortest path in binary matrix
+Other algorithms
+  Bellman ford algorithm
+  floyd warshall algorithm
+  strongly connected components - Tarjan's algorithm
