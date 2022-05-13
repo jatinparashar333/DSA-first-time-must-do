@@ -15,8 +15,6 @@ using namespace std;
 #define f4(i,a,b,c) for(ll i=a;i>=b;i-=c)
 #define jatin(t) int t; cin >> t; while(t--)
 const int N = 1e5+2, MOD = 1e9+7;
-//int array[N];
-//cout << (condition ? "YES\n" : "NO\n");
 vector<int> adj[N];
 
 int main()
