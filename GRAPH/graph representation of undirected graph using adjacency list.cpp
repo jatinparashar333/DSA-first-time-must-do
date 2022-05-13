@@ -16,7 +16,6 @@ using namespace std;
 #define jatin(t) int t; cin >> t; while(t--)
 const int N = 1e5+2, MOD = 1e9+7;
 //int array[N];
-//cout << (condition ? "YES\n" : "NO\n");
 vector<int> adj[N];     // array of vectors
 int main()
 {
